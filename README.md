@@ -1,4 +1,4 @@
-# Arduino LED Matrix Games
+# LED Matrix Games
 
 Three classic games — **Tetris**, **Snake** and **Plane** (a small shooter) — running on an 8x32 LED matrix (four MAX7219 modules), 
 with the score shown on a 3-digit 7-segment display.
@@ -13,7 +13,7 @@ with the score shown on a 3-digit 7-segment display.
 
 ## Hardware
 
-- Arduino Uno
+- Raspberry Pi Pico
 - 4x MAX7219 8x8 LED matrix modules (chained)
 - 3-digit 7-segment display (common cathode)
 - Analog joystick
